@@ -1,0 +1,20 @@
+generated: '2026-07-17'
+method: probed
+source: https://www.akara.ai
+host: https://www.akara.ai
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  Akara publishes no /.well-known discovery surface. akara.ai is a marketing
+  site with no public API, OAuth authorization server, or agent-plugin manifest.
+  Recorded for auditability; no WellKnown/SecurityTxt pointer wired because no
+  document returned 200.
