@@ -13,6 +13,17 @@ description: >-
   times faster than manual cleaning. Akara is trusted by hospitals across Europe
   and the US. The company does not currently publish a public API or developer
   program; this profile tracks its identity and public web surface.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
