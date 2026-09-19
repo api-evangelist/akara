@@ -1,18 +1,14 @@
 aid: akara
 name: Akara
-description: >-
-  Akara is a healthcare automation company building AI-powered systems for the
-  operating room and clinical environments. Its platform combines the Akara AI
-  Sensor, a thermal-only computer-vision system that passively tracks surgical
-  and procedure events without capturing identifiable patient data (named to
-  TIME's Best Inventions list); the Akara AI Platform, which delivers real-time
-  OR monitoring, automated alerts, interactive dashboards, analytics, and Clara,
-  an AI chat assistant for exploring surgical data and optimizing scheduling; and
-  the Akara UV Robot (Violet), a fully autonomous UV-C disinfection robot that
-  generates 3D UV dose maps and disinfects occupied clinical spaces up to six
-  times faster than manual cleaning. Akara is trusted by hospitals across Europe
-  and the US. The company does not currently publish a public API or developer
-  program; this profile tracks its identity and public web surface.
+description: Akara is a healthcare automation company building AI-powered systems for the operating room and clinical
+  environments. Its platform combines the Akara AI Sensor, a thermal-only computer-vision system that passively
+  tracks surgical and procedure events without capturing identifiable patient data (named to TIME's Best Inventions
+  list); the Akara AI Platform, which delivers real-time OR monitoring, automated alerts, interactive dashboards,
+  analytics, and Clara, an AI chat assistant for exploring surgical data and optimizing scheduling; and the Akara
+  UV Robot (Violet), a fully autonomous UV-C disinfection robot that generates 3D UV dose maps and disinfects occupied
+  clinical spaces up to six times faster than manual cleaning. Akara is trusted by hospitals across Europe and the
+  US. The company does not currently publish a public API or developer program; this profile tracks its identity
+  and public web surface.
 deliveryModel:
   model: unknown
   open_source: false
@@ -80,6 +76,10 @@ common:
   url: https://www.akara.ai/careers
 - type: LinkedIn
   url: https://www.linkedin.com/company/akara-ai/
+- type: Website
+  url: https://akara.ai/
+- type: Blog
+  url: https://akara.ai/blogs
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
